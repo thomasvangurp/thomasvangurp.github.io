@@ -1,1 +1,5 @@
-/Volumes/data/Dropbox/Blog/blog/output/atom.xml
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Vivo in Silico</title><link href="/" rel="alternate"></link><link href="/atom.xml" rel="self"></link><id>/</id><updated>2014-01-09T20:18:00+01:00</updated><entry><title>my first post</title><link href="/blog/2014/01/09/How%20I%20got%20this%20working/" rel="alternate"></link><updated>2014-01-09T20:18:00+01:00</updated><author><name>Thomas van Gurp</name></author><id>tag:,2014-01-09:blog/2014/01/09/How I got this working/</id><summary type="html">&lt;h2&gt;This gets you a snippet of&lt;/h2&gt;
+&lt;p&gt;A block of text.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;print&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;hello&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="pelican"></category></entry></feed>
